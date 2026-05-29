@@ -2,7 +2,7 @@
 
 **A powerful, real-time Chain-of-Thought dataset generator with a beautiful browser UI.**
 
-Generate high-quality synthetic training data for LLMs with structured Cold Start + Hot Start reasoning — perfect for creating wop/XXXXXL-style CoT datasets.
+Generate high-quality synthetic training data for LLMs with structured Cold Start + Hot Start reasoning — perfect for creating [wop/XXXXXL-style CoT datasets](https://huggingface.co/datasets/wop/XXXXXL-chain-of-thought).
 
 ![Demo Screenshot](https://github.com/user-attachments/assets/bea20d6c-0d7e-4da1-8fa0-a2b7b48641ea)
 
